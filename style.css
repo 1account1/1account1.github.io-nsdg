@@ -1,0 +1,37 @@
+h3{
+    border: solid;
+    padding: 5px;
+    border-radius: 5px;
+    color: #2371ff;
+}
+h4{
+    color: #2371ff;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color: #2371ff;
+}
+body{
+    border-top: solid;
+    border-color: #2371ff;
+    border-width: 15px;
+    margin: 0px;
+    padding: 20px;
+}
+table td, table td * {
+    vertical-align: top;
+}
+.block{
+    margin: 10px;
+    border: solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+#label{
+    border: none;
+}
+#labels{
+    border: none;
+}
